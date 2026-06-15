@@ -3,7 +3,7 @@
 > Relatório técnico de análise de tráfego de rede utilizando Wireshark, desenvolvido como parte do **Google Cybersecurity Professional Certificate**.\
 > Technical report on network traffic analysis using Wireshark, developed as part of the **Google Cybersecurity Professional Certificate**.
  
-> **Idioma / Language:** [Português](#-português) · [English](#-english)
+> **Idioma / Language:** [Português](#português) · [English](#english)
  
 ---
  
